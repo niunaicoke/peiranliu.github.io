@@ -26,7 +26,7 @@ author:
   avatar           : "touxiang.png"
   name             : "Peiran Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : 
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
