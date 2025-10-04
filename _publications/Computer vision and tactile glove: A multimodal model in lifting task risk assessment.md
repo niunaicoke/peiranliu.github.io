@@ -3,7 +3,7 @@ title: "Computer vision and tactile glove: A multimodal model in lifting task ri
 collection: publications
 category: manuscripts
 permalink: https://www.sciencedirect.com/science/article/abs/pii/S0003687025000493
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2025-4-1
 venue: 'Applied Ergonomics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0003687025000493'
