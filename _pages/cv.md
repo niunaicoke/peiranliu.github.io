@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://niunaicoke.github.io/peiranliu.github.io/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial Engineering, Purdue University, 2027 (expected)
+* B.S. in Information Systems, University of Florida, 2023
 
 Work experience
 ======
