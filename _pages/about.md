@@ -1,5 +1,5 @@
 ---
-permalink: https://niunaicoke.github.io/peiranliu.github.io/about/
+permalink: /about/
 title: "About"
 author_profile: true
 redirect_from: 
