@@ -59,9 +59,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 -->
 
-I am a PhD student at [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE), [Purdue University](https://www.purdue.edu/), under guidence of [Prof. Denny Yu](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=134078). 
-
-I worked as an intern at [BrainCo](https://brainco.tech/#/) in 2023, and [Coohom](https://www.coohom.com/) [SpatialVerse](https://www.spatial-verse.com/) in 2025.
+I am a PhD student at [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE), [Purdue University](https://www.purdue.edu/), under guidence of [Prof. Denny Yu](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=134078). I hold a Bachelor’s degree in Information Systems in University of Florida. I worked as an intern at [BrainCo](https://brainco.tech/#/) in 2023, and [Coohom](https://www.coohom.com/) [SpatialVerse](https://www.spatial-verse.com/) in 2025. My research focus on safety & usability in transportation and healthcare with AI and digital twin.
 
 
 
