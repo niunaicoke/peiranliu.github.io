@@ -1,11 +1,11 @@
 ---
-title: "Lampilot: An open benchmark dataset for autonomous driving with language model programs"
+title: "Are LLMs the New Ergonomists? Predicting Lifting Risks with LLMs And Machine Learning"
 collection: publications
 category: conferences
-permalink: https://openaccess.thecvf.com/content/CVPR2024/html/Ma_LaMPilot_An_Open_Benchmark_Dataset_for_Autonomous_Driving_with_Language_CVPR_2024_paper.html
-excerpt: LLM, Autonomous Driving, Transportation
-date: 2024-3-1
-venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
-paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/html/Ma_LaMPilot_An_Open_Benchmark_Dataset_for_Autonomous_Driving_with_Language_CVPR_2024_paper.html'
-citation: 'Ma, Y., Cui, C., Cao, X., Ye, W., Liu, P., Lu, J., ... & Wang, Z. (2024). Lampilot: An open benchmark dataset for autonomous driving with language model programs. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 15141-15151).'
+permalink: https://journals.sagepub.com/doi/full/10.1177/10711813251370730
+excerpt: LLM, Ergonomics, Lifting risks
+date: 2025-09-13
+venue: 'Proceedings of the Human Factors and Ergonomics Society Annual Meeting'
+paperurl: 'https://journals.sagepub.com/doi/full/10.1177/10711813251370730'
+citation: 'Liu, P., Chen, H., Zhou, G., & Yu, D. (2021). Are LLMs the New Ergonomists? Predicting Lifting Risks with LLMs And Machine Learning. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (p. 10711813251370730). Sage CA: Los Angeles, CA: SAGE Publications.'
 ---
